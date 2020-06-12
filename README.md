@@ -4,7 +4,6 @@
 ## Description
 This is my personal online portfolio `https://dreamy-kowalevski-25d8cd.netlify.app/`
 
-
 ## Author
 
 
