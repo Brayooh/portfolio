@@ -2,13 +2,13 @@
 
 
 ## Description
-This is my personal online portfolio `https://bryomajor.github.io/my-resume/`
+This is my personal online portfolio `https://dreamy-kowalevski-25d8cd.netlify.app/`
 
 
 ## Author
 
 
-* [**Brian Major**](https://github.com/bryomajor)
+* [**Brian Ndichu**](https://github.com/brayooh)
 
 ## Features
 
@@ -32,7 +32,7 @@ As a user of the web application you will be able to:
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/bryomajor/my-resume.git
+        $ git clone https://github.com/brayooh/portfolio.git
         $ cd my-resume
         
 ## Technologies Used
@@ -45,10 +45,10 @@ This application is developed using mainly [HTML](https://getbootstrap.com/) and
 
 
 ## Support and Team
-Brian Major
+Brian Ndichu
 
 
-[Slack Me!](https://slack.com/intl/en-ke/)  @bryomajor
+[Slack Me!](https://slack.com/intl/en-ke/)  @brayooh
 
 
 ### License
