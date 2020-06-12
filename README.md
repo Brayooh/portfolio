@@ -39,15 +39,14 @@ As a user of the web application you will be able to:
 * Bootstrap
 * JavaScript
 * Font-Awesome
+* Jquery
 
-This application is developed using mainly [HTML](https://getbootstrap.com/) and [Bootstrap](https://getbootstrap.com/)
+
 
 
 ## Support and Team
 Brian Ndichu
-
-
-[Slack Me!](https://slack.com/intl/en-ke/)  @brayooh
+0701259902
 
 
 ### License
